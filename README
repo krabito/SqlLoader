@@ -1,0 +1,2 @@
+SqlLoader - Java application which connects to an Oracle database and can run listed SQL statements. Used to
+test / show running SQL statements against an Oracle RAC or HA database.  
